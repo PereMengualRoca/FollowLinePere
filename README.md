@@ -289,19 +289,19 @@ En cada captura se ve, arriba, el mapa del circuito con el tiempo total en rojo 
 
 ### Versión P
 
-![Versión P: circuito y tiempo de 2 vueltas](img/tiempo_P.png)
+![Versión P: circuito y tiempo de 2 vueltas](tiempo_P.png)
 
 **Tiempo (2 vueltas): 131.70 s**
 
 ### Versión PD
 
-![Versión PD: circuito y tiempo de 2 vueltas](img/tiempo_PD.png)
+![Versión PD: circuito y tiempo de 2 vueltas](tiempo_PD.png)
 
 **Tiempo (2 vueltas): 111.53 s**
 
 ### Versión PID
 
-![Versión PID: circuito y tiempo de 2 vueltas](img/tiempo_PID.png)
+![Versión PID: circuito y tiempo de 2 vueltas](tiempo_PID.png)
 
 **Tiempo (2 vueltas): 105.14 s**
 
